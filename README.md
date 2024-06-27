@@ -27,5 +27,5 @@ Mohamed bin Zayed University of Artificial Intelligence, Abu Dhabi, UAE <br>
     author={Shatnawi, Sara and Alqahtani, Sawsan and and Shehata, Shady Aldarmaki, Hanan},    
     booktitle = "SIGARAB ArabicNLP 2024 Conference”,
     year = "2024",
+    }
     
-}
