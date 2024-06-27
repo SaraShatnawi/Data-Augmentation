@@ -19,3 +19,13 @@ Mohamed bin Zayed University of Artificial Intelligence, Abu Dhabi, UAE <br>
 
 # Multi-Modal Diacritic Restoration
 ![image](https://github.com/SaraShatnawi/Data-Augmentation/assets/49264609/20652f27-3ebb-40d2-b77e-a3df7ec1a6c9)
+
+ # Citition
+ 
+@inproceedings{shatnawi2024data,
+  title={Data Augmentation for Speech-Based Diacritic Restoration},
+  author= {Shatnawi, Sara and Alqahtani, Sawsan and and Shehata, Shady Aldarmaki, Hanan}, 
+  booktitle="SIGARAB ArabicNLP 2024 Conference"
+  year="2024",
+  month="May",
+}
