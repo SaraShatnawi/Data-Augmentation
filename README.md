@@ -24,7 +24,7 @@ Mohamed bin Zayed University of Artificial Intelligence, Abu Dhabi, UAE <br>
  
 @inproceedings{shatnawi2024data,
   title={Data Augmentation for Speech-Based Diacritic Restoration},
-  author= {Shatnawi, Sara and Alqahtani, Sawsan and and Shehata, Shady Aldarmaki, Hanan}, 
+  author= {Shatnawi, Sara and Alqahtani, Sawsan and and Shehata, Shady Aldarmaki, Hanan},                                                                                                                                
   booktitle="SIGARAB ArabicNLP 2024 Conference"
   year="2024",
   month="May",
