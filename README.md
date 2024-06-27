@@ -16,3 +16,6 @@ Mohamed bin Zayed University of Artificial Intelligence, Abu Dhabi, UAE <br>
 * All diacritics are placed on characters, not in the Arabic alphabet.
 * All diacritics applied to the following forms of Alef: Alef Madd (آ), Alef (ا), Maqsura (ى), and at the beginning of a word (Alef followed by the letter Lam) indicating the definiteness of a word (ال).
 * Any additional diacritic for each letter, except if this additional diacritic accompanies Shaddah (i.e., each letter should have only one diacritic except in the case of Shaddah, which can be followed by an additional diacritic).
+
+# Multi-Modal Diacritic Restoration
+![image](https://github.com/SaraShatnawi/Data-Augmentation/assets/49264609/20652f27-3ebb-40d2-b77e-a3df7ec1a6c9)
