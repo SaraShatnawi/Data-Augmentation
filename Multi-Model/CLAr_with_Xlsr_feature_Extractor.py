@@ -518,9 +518,9 @@ def parse_arguments():
     
     parser.add_argument('--dff', default=128)
     
-    parser.add_argument('--num_blocks_text_encoder', default=4)
+    parser.add_argument('--num_blocks_text_encoder', default=2)
     
-    parser.add_argument('--num_blocks_speech_encoder', default=4)
+    parser.add_argument('--num_blocks_speech_encoder', default=2)
     
     
     parser.add_argument('--dropout_rate', default=0.2)
